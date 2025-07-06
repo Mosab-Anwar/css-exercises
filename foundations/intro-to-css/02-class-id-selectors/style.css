@@ -1,8 +1,18 @@
 /* styles.css */
 .odd{
-    background-color: lightcoral;
+    background-color: hsl(0, 79%, 72%);
     font-family: Verdana, "DejaVu Sans", sans-serif;  
 }
 .third{
     font-size: 24px;
+}
+#even-1{
+    font-size: 36px;
+    color: rgb(0, 15, 255)
+
+}
+#even-2{
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
 }
