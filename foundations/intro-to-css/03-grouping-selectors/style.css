@@ -1,12 +1,12 @@
 /* style.css */
-#awl{
+.awl{
     background-color: black;
     color: white;
 }
-#tany{
+.tany{
     background-color: yellow;
 }
-.moshtark{
+.awl , .tany{
     font-size:28px;
     font-family: 'Helvetica', 'Times New Roman','sans-serif';
 }
